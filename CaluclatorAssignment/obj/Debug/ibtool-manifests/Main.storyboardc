@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.ibtool.document.errors</key>
+	<dict/>
+	<key>com.apple.ibtool.document.notices</key>
+	<dict>
+		<key>lkS-zC-3nV</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>lkS-zC-3nV</string>
+				</array>
+				<key>message</key>
+				<string>NSTextField's height does not match its intrinsic content size, use "Size to Fit Content" to correct</string>
+				<key>type</key>
+				<string>IBIssueTypeIntrinsicSizeMismatch</string>
+				<key>type-value</key>
+				<integer>22</integer>
+			</dict>
+		</array>
+		<key>n1b-CV-Oqk</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>n1b-CV-Oqk</string>
+				</array>
+				<key>message</key>
+				<string>View is clipping its content</string>
+				<key>type</key>
+				<string>IBIssueTypeClippedContent</string>
+				<key>type-value</key>
+				<integer>13</integer>
+			</dict>
+		</array>
+		<key>v3M-SU-FhX</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>v3M-SU-FhX</string>
+				</array>
+				<key>message</key>
+				<string>View is clipping its content</string>
+				<key>type</key>
+				<string>IBIssueTypeClippedContent</string>
+				<key>type-value</key>
+				<integer>13</integer>
+			</dict>
+		</array>
+		<key>wrr-JH-vev</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>wrr-JH-vev</string>
+				</array>
+				<key>message</key>
+				<string>NSTextField's height does not match its intrinsic content size, use "Size to Fit Content" to correct</string>
+				<key>type</key>
+				<string>IBIssueTypeIntrinsicSizeMismatch</string>
+				<key>type-value</key>
+				<integer>22</integer>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.ibtool.document.warnings</key>
+	<dict/>
+</dict>
+</plist>
